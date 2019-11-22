@@ -1,0 +1,14 @@
+/* .container{
+    justify-content: space-around;
+    
+} */
+
+.d-block w-100{
+    width:100px;
+    height: 100px;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+}
+
